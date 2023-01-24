@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673622975 source:c:\users\user\documents\hello world (c)\rocketshuttle\main.c
+	<stdio.h>
+	<windows.h>
+
