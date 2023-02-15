@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676493727 source:c:\users\user\desktop\prog2007\a4-menu-jw\main.c
+	<stdio.h>
+	<stdlib.h>
+
