@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
-
+// Stryctures 
 typedef struct Player
 {
     char name[15];
